@@ -1,1 +1,1 @@
-python countryip -c JP -f jpip.txt
+python countryip.py -c JP -f jpip.txt
